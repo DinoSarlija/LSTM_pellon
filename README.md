@@ -81,7 +81,8 @@ pip install -r requirements.txt
 ```
 
 ## 6. Results
-We achieved the best result for a 5-day period, where our highest accuracy was 70.17%. In this case, the data were not filtered, we applied a 25% dropout rate, the learning rate was set at 0.01, and we obtained the result after 1000 epochs. 
+We achieved the best result for a 5-day period, where our highest accuracy was 70.17%. In this case, the data were not filtered, we applied a 25% dropout rate, the learning rate was set at 0.01, and we obtained the result after 1000 epochs.
+
 ![alt text](images/epochs_1000_sequence_5_original.png) 
 
 ![alt text](images/epochs_1000_sequence_5_prediction.png)
